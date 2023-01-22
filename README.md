@@ -28,7 +28,7 @@ The total cost of a prediction model the sum of "Cost_1" multiplied by the numbe
 In this case Cost_1 refers to the cost that an unnessecary check needs to be done by an mechanic at an workshop, while Cost_2 refer to the cost of missing a faulty truck, which may cause a breakdown.
 
      Total_cost = Cost_1*No_Instances + Cost_2*No_Instances.
-Build a appropriate model that best predicts the faults in the sensor equipment abd reduce the cos.
+Build a appropriate model that best predicts the faults in the sensor equipment and reduce the cost.
 
 ### Dataset information
 The training set contains 60000 examples in total in which 59000 belong to the negative class and 1000 positive class and number of Attributes is 171.
